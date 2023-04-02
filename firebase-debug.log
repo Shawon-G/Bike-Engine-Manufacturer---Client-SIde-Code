@@ -1,0 +1,25 @@
+[debug] [2023-04-02T10:27:57.809Z] ----------------------------------------------------------------------
+[debug] [2023-04-02T10:27:57.813Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-04-02T10:27:57.815Z] CLI Version:   11.25.2
+[debug] [2023-04-02T10:27:57.815Z] Platform:      win32
+[debug] [2023-04-02T10:27:57.815Z] Node Version:  v18.12.1
+[debug] [2023-04-02T10:27:57.817Z] Time:          Sun Apr 02 2023 16:27:57 GMT+0600 (Bangladesh Standard Time)
+[debug] [2023-04-02T10:27:57.817Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-02T10:27:57.967Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-02T10:27:57.968Z] > authorizing via signed-in user (work.shawonmg@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  G:\Assign.Project convet into public\manufacturer-website-client-side-shawon-MG
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
